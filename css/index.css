@@ -1,54 +1,84 @@
 #avatar {
-  width: 256px;
-  height: 256px;
-  border: 10px solid #67949D;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -o-border-radius: 50%;
-  border-radius: 50%; }
+	width: 230px;
+	height: 230px;
+	border: 5px solid #13daec;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	-o-border-radius: 50%;
+	border-radius: 50%;
+}
 
 #name {
-  margin: 0.5em 0; }
+	margin: 0.5em 0;
+}
 
 .reveal .title {
-  margin-bottom: 1.1em; }
+	margin-bottom: 1.1em;
+}
 
 .reveal .date {
-  color: #ccc; }
+	color: #ccc;
+}
 
 .imgleft {
-  height: 240px;
-  float: left; }
+	height: 240px;
+	float: left;
+}
 
 .pfloat {
-  overflow: hidden; }
+	overflow: hidden;
+}
 
 .pfloat p {
-  padding-left: 20px; }
+	padding-left: 20px;
+}
 
 .clearfix {
-  overflow: hidden; }
+	overflow: hidden;
+}
 
 .reveal .l1 {
-  font-size: 2em; }
+	font-size: 2em;
+}
 
 .reveal .l1 {
-  font-size: 2em; }
+	font-size: 2em;
+}
 
 .reveal .l2 {
-  font-size: 1.5em; }
+	font-size: 1.5em;
+}
 
 .reveal .l3 {
-  font-size: 1.2em; }
+	font-size: 1.2em;
+}
 
 .reveal .l4 {
-  font-size: 1em; }
+	font-size: 1em;
+}
 
 .reveal .l5 {
-  font-size: 0.7em; }
+	font-size: 0.7em;
+}
 
 .reveal .l6 {
-  font-size: 0.5em; }
+	font-size: 0.5em;
+}
 
 .reveal ul {
-  font-size: 0.7em; }
+	font-size: 0.7em;
+}
+
+section.top440{
+	top: -440px !important;
+}
+
+section .MobileAdd{
+	margin-top: 1em;
+}
+
+section .MobileAdd img{
+	width: 200px;
+	height: 200px;
+}
+
