@@ -361,6 +361,6 @@ body {
 }
 
 .job-experience > p{
-	font-size: 0.5em;
-	text-align: left;
+	font-size: 0.5em !important;
+	text-align: left !important;
 }
