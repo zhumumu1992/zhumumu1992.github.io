@@ -359,3 +359,8 @@ body {
 .favicon.lync-in {
 	background-image: url(../../img/favicon/lync.in.png);
 }
+
+.job-experience > p{
+	font-size: 0.5em;
+	text-align: left;
+}
