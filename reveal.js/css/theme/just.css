@@ -361,6 +361,18 @@ body {
 }
 
 .job-experience > p{
-	font-size: 0.45em !important;
+	font-size: 0.42em !important;
 	text-align: left !important;
+}
+
+p.link-url a {
+	color: cyan;
+}
+
+.job-experience h3{
+	font-size: 1em !important;
+}
+
+.personal-profile p{
+	font-size: 0.5em !important;
 }
